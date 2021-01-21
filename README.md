@@ -1,5 +1,4 @@
 ## Highlights about former inmate homelessness, unemployment, and recidivism.  
-<!DOCTYPE html>
 <html>
 <body>
   
